@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxngyao&label=Profile%20views&color=0e75b6&style=flat" alt="mxngyao" /> </p>
 
-- 🔭 I’m currently working on **Google Cybersecurity Professional Certificate**
+- 🔭 I’m currently working on **Google's Cybersecurity Professional Certification**
 
 - 🌱 I’m currently learning **SQL and Python**
 
