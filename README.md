@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ming Yao</h1>
+<h1 align="center">Hi 👋, I'm Ming Yao (Travis) </h1>
 <h3 align="center">A Tech Enthusiast from Singapore</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mingyao.e@gmail.com**
 
-- ⚡ Fun fact **I'm actually just a nerd obsessed with Tech**
+- ⚡ Mood Currently **"0bsessed with Tech"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
