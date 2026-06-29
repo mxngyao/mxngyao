@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **HackTheBox Certified Web Exploitation Specialist (CWES)**
 
-- 🌱 I’m currently learning **Web pen-testing**
+- 🌱 I’m currently learning **Web Pen-Testing**
 
 - 💬 Ask me about **Cyber Security**
 
